@@ -8,6 +8,7 @@ NovaSeq FASTQ Only
 NovaSeq
 [Compatible Sample Prep Kits]
 Chromium Single Cell 3' GEM v3
+Chromium Single Cell 5' GEM v3
 KAPA HyperPrep
 KAPA HyperPlus
 KAPA RNA HyperPrep
