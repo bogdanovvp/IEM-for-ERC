@@ -1,7 +1,7 @@
 [Version]
 3
 [Name]
-Chromium Single Cell 3' GEM v3
+Chromium Single Cell 5' GEM v3
 [Settings]
 [Compatible Index Kits]
 Chromium Single Index Kit T Set A

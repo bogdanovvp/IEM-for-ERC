@@ -1,0 +1,12 @@
+﻿[Version]
+1
+[Name]
+NEBNext Ultra II FS DNA Library Prep Kit for Illumina
+[Settings]
+ManifestExtension	AmpliconManifest
+DisplayIndexKitsInOrder
+[Compatible Index Kits]
+NEBNext Multiplex Oligos for Illumina (96 Unique Dual Index Primer Pairs) E6440
+NEBNext Multiplex Oligos for Illumina (96 Unique Dual Index Primer Pairs Set 2) E6442
+NEBNext Multiplex Oligos for Illumina (96 Unique Dual Index Primer Pairs Set 3) E6444
+NEBNext Multiplex Oligos for Illumina (96 Unique Dual Index Primer Pairs Set 4) E6446

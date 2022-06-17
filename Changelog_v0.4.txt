@@ -1,0 +1,10 @@
+v0.4
+- Added Chromium Dual Index Kit TT Set A (as indexes for bcl2fastq, not for cellranger)
+
+v0.3
+- Fixed a bug in Chromium Single Index Kit T Set A for compatibility with cellranger
+- Added NEBNext index kits
+
+v0.2
+- Added KAPA index kits
+- Added Parseq Labs index kits
