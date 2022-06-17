@@ -1,0 +1,14 @@
+﻿[Version]
+1
+[Name]
+Illumina DNA Prep with Enrichment
+[Settings]
+DisplayIndexKitsInOrder
+[Reads]
+101
+101
+[Compatible Index Kits]
+IDT-ILMN Nextera DNA UD Indexes (96 Indexes) Set C
+IDT-ILMN Nextera DNA UD Indexes (96 Indexes) Set D
+IDT-ILMN Nextera DNA UD Indexes (384 Indexes)
+IDT-Ilmn DNA-RNA UD Indexes SetABCD Tagmentation

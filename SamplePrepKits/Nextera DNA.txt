@@ -1,0 +1,9 @@
+﻿[Version]
+1
+[Name]
+Nextera DNA
+[Settings]
+ManifestExtension	AmpliconManifest
+[Compatible Index Kits]
+Nextera Index Kit (24 Indexes 96 Samples)
+Nextera Index Kit (96 Indexes 384 Samples)

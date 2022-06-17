@@ -1,0 +1,24 @@
+<sequenceSizes genomeName="WholeGenomeFASTA">
+	<chromosome fileName="genome.fa" contigName="chr1" totalBases="267910886" isCircular="false" md5="e49490bfe16f3d3dfb780e14e0465e32" ploidy="2" />
+	<chromosome fileName="genome.fa" contigName="chr2" totalBases="258207540" isCircular="false" md5="6c4ac997a667807ba1e7d2dfa1bdf200" ploidy="2" />
+	<chromosome fileName="genome.fa" contigName="chr3" totalBases="171063335" isCircular="false" md5="8d0a76eb6f2c379dbbe93579736427f4" ploidy="2" />
+	<chromosome fileName="genome.fa" contigName="chr4" totalBases="187126005" isCircular="false" md5="55f0e5a3745ffe1fb1ce495e0779ac29" ploidy="2" />
+	<chromosome fileName="genome.fa" contigName="chr5" totalBases="173096209" isCircular="false" md5="20520eef0968e10476e92535adfa92d6" ploidy="2" />
+	<chromosome fileName="genome.fa" contigName="chr6" totalBases="147636619" isCircular="false" md5="3872a45200b0dbed1c033a1f2c998842" ploidy="2" />
+	<chromosome fileName="genome.fa" contigName="chr7" totalBases="143002779" isCircular="false" md5="7d259051ac0cc5c8c0be3db0a7589ea2" ploidy="2" />
+	<chromosome fileName="genome.fa" contigName="chr8" totalBases="129041809" isCircular="false" md5="492c55a592f3f2b58743fdbc29e5fc94" ploidy="2" />
+	<chromosome fileName="genome.fa" contigName="chr9" totalBases="113440463" isCircular="false" md5="d6b5659a1a1a155c2d01b1049f657c3c" ploidy="2" />
+	<chromosome fileName="genome.fa" contigName="chr10" totalBases="110718848" isCircular="false" md5="9cb8279331718c26d61defe9011e35a0" ploidy="2" />
+	<chromosome fileName="genome.fa" contigName="chr11" totalBases="87759784" isCircular="false" md5="12a89b08fdad4ceed6907d5714800853" ploidy="2" />
+	<chromosome fileName="genome.fa" contigName="chr12" totalBases="46782294" isCircular="false" md5="a3e7d0e31cea8bc193846736b91d55dd" ploidy="2" />
+	<chromosome fileName="genome.fa" contigName="chr13" totalBases="111154910" isCircular="false" md5="9058b738b67a3cb4ec35ebfdc56095f4" ploidy="2" />
+	<chromosome fileName="genome.fa" contigName="chr14" totalBases="112194335" isCircular="false" md5="cae5599afa593f3b6dcaff2a9862e794" ploidy="2" />
+	<chromosome fileName="genome.fa" contigName="chr15" totalBases="109758846" isCircular="false" md5="7d8f3eb719e72151c8c6403920fb27ed" ploidy="2" />
+	<chromosome fileName="genome.fa" contigName="chr16" totalBases="90238779" isCircular="false" md5="8ca62710bd814326fa99424994398ee3" ploidy="2" />
+	<chromosome fileName="genome.fa" contigName="chr17" totalBases="97296363" isCircular="false" md5="25c9eaca4ea4fbd09ebe54454f827789" ploidy="2" />
+	<chromosome fileName="genome.fa" contigName="chr18" totalBases="87265094" isCircular="false" md5="21606ced86d7d63c688a06a16c37146b" ploidy="2" />
+	<chromosome fileName="genome.fa" contigName="chr19" totalBases="59218465" isCircular="false" md5="015634bfe9a35a97b6993f83715c9625" ploidy="2" />
+	<chromosome fileName="genome.fa" contigName="chr20" totalBases="55268282" isCircular="false" md5="b4bc5fdd960df6c01d19b4fd3aa4a3ad" ploidy="2" />
+	<chromosome fileName="genome.fa" contigName="chrX" totalBases="160699376" isCircular="false" md5="9243d64b9be02f38c123507a0ee54dcb" ploidy="2" />
+	<chromosome fileName="genome.fa" contigName="chrM" totalBases="16300" isCircular="false" md5="a487a1b6364642889d80568aa8dde749" ploidy="2" />
+</sequenceSizes>

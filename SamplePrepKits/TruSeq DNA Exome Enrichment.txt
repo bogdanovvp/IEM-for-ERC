@@ -1,0 +1,33 @@
+﻿[Version]
+1
+[Name]
+TruSeq DNA Exome Enrichment
+[Reads]
+76
+76
+[UMISettings]
+Read1UMILength	7
+Read2UMILength	7
+Read1StartFromCycle	9
+Read2StartFromCycle	9
+[Compatible Index Kits]
+IDT-ILMN TruSeq DNA UD Indexes (24 Indexes)
+IDT-ILMN TruSeq DNA UD Indexes (96 Indexes)
+IDT-ILMN TruSeq DNA UD Indexes v2 - 96 Indexes
+TruSeq DNA CD Indexes (96 Indexes)
+TruSeq DNA Single Indexes Set A
+TruSeq DNA Single Indexes Set B
+TruSeq Exome (8 rxn x 3 6 9 plex)
+TruSeq Exome (8 rxn x 12 plex)
+TruSeq DNA Single Indexes (A & B)
+IDT-ILMN Nextera DNA UD Indexes (96 Indexes) Set A
+IDT-ILMN Nextera DNA UD Indexes (96 Indexes) Set B
+IDT-ILMN Nextera DNA UD Indexes (96 Indexes) Set C
+IDT-ILMN Nextera DNA UD Indexes (96 Indexes) Set D
+IDT-ILMN Nextera DNA UD Indexes (384 Indexes)
+[Compatible With UMI Anchor Kit]
+IDT-ILMN Nextera DNA UD Indexes (96 Indexes) Set A
+IDT-ILMN Nextera DNA UD Indexes (96 Indexes) Set B
+IDT-ILMN Nextera DNA UD Indexes (96 Indexes) Set C
+IDT-ILMN Nextera DNA UD Indexes (96 Indexes) Set D
+IDT-ILMN Nextera DNA UD Indexes (384 Indexes)

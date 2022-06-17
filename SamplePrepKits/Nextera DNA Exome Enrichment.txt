@@ -1,0 +1,12 @@
+﻿[Version]
+1
+[Name]
+Nextera DNA Exome Enrichment
+[Settings]
+[Compatible Index Kits]
+Nextera DNA CD Indexes (24 Indexes tubed)
+Nextera DNA CD Indexes (96 Indexes plated)
+Nextera Exome
+[Reads]
+76
+76

@@ -1,0 +1,3 @@
+<sequenceSizes genomeName="WholeGenomeFasta">
+	<chromosome fileName="genome.fa" contigName="chr" totalBases="2821361" isCircular="false" md5="9a7cac0c4b6ed6c533b55ffe64b0dd99" ploidy="2" />
+</sequenceSizes>

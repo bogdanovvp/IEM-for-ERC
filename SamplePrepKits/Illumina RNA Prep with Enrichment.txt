@@ -1,0 +1,27 @@
+[Version]
+1
+[Name]
+Illumina RNA Prep with Enrichment
+[Reads]
+76
+76
+[Settings]
+IndexOnly
+PairedEndOnly
+[UMISettings]
+Read1UMILength	7
+Read2UMILength	7
+Read1StartFromCycle	9
+Read2StartFromCycle	9
+[Compatible Index Kits]
+IDT-Ilmn DNA-RNA UD Indexes SetA Tagmentation
+IDT-Ilmn DNA-RNA UD Indexes SetB Tagmentation
+IDT-Ilmn DNA-RNA UD Indexes SetC Tagmentation
+IDT-Ilmn DNA-RNA UD Indexes SetD Tagmentation
+IDT-Ilmn DNA-RNA UD Indexes SetABCD Tagmentation
+[Compatible With UMI Anchor Kit]
+IDT-Ilmn DNA-RNA UD Indexes SetA Tagmentation
+IDT-Ilmn DNA-RNA UD Indexes SetB Tagmentation
+IDT-Ilmn DNA-RNA UD Indexes SetC Tagmentation
+IDT-Ilmn DNA-RNA UD Indexes SetD Tagmentation
+IDT-Ilmn DNA-RNA UD Indexes SetABCD Tagmentation

@@ -1,0 +1,11 @@
+﻿[Version]
+1
+[Name]
+KAPA RNA HyperPrep
+[Reads]
+151
+151
+[Compatible Index Kits]
+KAPA DI Adapters
+KAPA UDI Adapters
+KAPA UDI Primer Mixes_1 - 96

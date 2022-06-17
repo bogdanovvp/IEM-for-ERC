@@ -1,0 +1,27 @@
+﻿[Version]
+1
+[Name]
+TruSeq RNA Access
+[Reads]
+76
+76
+[UMISettings]
+Read1UMILength	7
+Read2UMILength	7
+Read1StartFromCycle	9
+Read2StartFromCycle	9
+[Compatible Index Kits]
+IDT-ILMN TruSeq RNA UD Indexes v2 - 96 Indexes
+TruSeq RNA Single Indexes Set A
+TruSeq RNA Single Indexes Set B
+IDT-ILMN Nextera DNA UD Indexes (96 Indexes) Set A
+IDT-ILMN Nextera DNA UD Indexes (96 Indexes) Set B
+IDT-ILMN Nextera DNA UD Indexes (96 Indexes) Set C
+IDT-ILMN Nextera DNA UD Indexes (96 Indexes) Set D
+IDT-ILMN Nextera DNA UD Indexes (384 Indexes)
+[Compatible With UMI Anchor Kit]
+IDT-ILMN Nextera DNA UD Indexes (96 Indexes) Set A
+IDT-ILMN Nextera DNA UD Indexes (96 Indexes) Set B
+IDT-ILMN Nextera DNA UD Indexes (96 Indexes) Set C
+IDT-ILMN Nextera DNA UD Indexes (96 Indexes) Set D
+IDT-ILMN Nextera DNA UD Indexes (384 Indexes)

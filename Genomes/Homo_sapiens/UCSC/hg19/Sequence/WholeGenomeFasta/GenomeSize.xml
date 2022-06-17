@@ -1,0 +1,27 @@
+<sequenceSizes genomeName="Human">
+	<chromosome fileName="Human.fa" contigName="chr1" totalBases="249250621" isCircular="false" md5="94f0d1b1622299238a1d8a0711dd06c7" ploidy="2" />
+	<chromosome fileName="Human.fa" contigName="chr2" totalBases="243199373" isCircular="false" md5="854e985b2e19c122b9f67f6453965693" ploidy="2" />
+	<chromosome fileName="Human.fa" contigName="chr3" totalBases="198022430" isCircular="false" md5="8abc85e73b1c75518a03743de2c2b14b" ploidy="2" />
+	<chromosome fileName="Human.fa" contigName="chr4" totalBases="191154276" isCircular="false" md5="2d37b4e662928cc6c58b84b2a4cc8648" ploidy="2" />
+	<chromosome fileName="Human.fa" contigName="chr5" totalBases="180915260" isCircular="false" md5="250f4e82a213269b0a0e4aebb0468470" ploidy="2" />
+	<chromosome fileName="Human.fa" contigName="chr6" totalBases="171115067" isCircular="false" md5="409088215d77f0bc72364b390430a5a7" ploidy="2" />
+	<chromosome fileName="Human.fa" contigName="chr7" totalBases="159138663" isCircular="false" md5="ef15cde5c82fb860694bf8f611807459" ploidy="2" />
+	<chromosome fileName="Human.fa" contigName="chr8" totalBases="146364022" isCircular="false" md5="8fbef8c3eaaac674cc6e690d1641464b" ploidy="2" />
+	<chromosome fileName="Human.fa" contigName="chr9" totalBases="141213431" isCircular="false" md5="791586215804a0eac537f38b9dd4cde2" ploidy="2" />
+	<chromosome fileName="Human.fa" contigName="chr10" totalBases="135534747" isCircular="false" md5="b4e45e54aa2f74160a3220c8f8e30a9a" ploidy="2" />
+	<chromosome fileName="Human.fa" contigName="chr11" totalBases="135006516" isCircular="false" md5="87a76a8bbb98a65b792822b8f148f4f9" ploidy="2" />
+	<chromosome fileName="Human.fa" contigName="chr12" totalBases="133851895" isCircular="false" md5="98b7a0aeea30cc16aeb5ffdaf43c8238" ploidy="2" />
+	<chromosome fileName="Human.fa" contigName="chr13" totalBases="115169878" isCircular="false" md5="90a7175dfa4e9c6d23fb0ec7b1f1e880" ploidy="2" />
+	<chromosome fileName="Human.fa" contigName="chr14" totalBases="107349540" isCircular="false" md5="98de20ecb80c00338fe4f978b0403d2b" ploidy="2" />
+	<chromosome fileName="Human.fa" contigName="chr15" totalBases="102531392" isCircular="false" md5="93273e983c0e06a2ec1334454952141e" ploidy="2" />
+	<chromosome fileName="Human.fa" contigName="chr16" totalBases="90354753" isCircular="false" md5="d252447e0439735eac934a27e9db136f" ploidy="2" />
+	<chromosome fileName="Human.fa" contigName="chr17" totalBases="81195210" isCircular="false" md5="ec9adf628757584300c3fb1a236a1c33" ploidy="2" />
+	<chromosome fileName="Human.fa" contigName="chr18" totalBases="78077248" isCircular="false" md5="1021a29f6559ff7d70a5e363f5b1daea" ploidy="2" />
+	<chromosome fileName="Human.fa" contigName="chr19" totalBases="59128983" isCircular="false" md5="74894b6505db2249cebf5f4b76a2f066" ploidy="2" />
+	<chromosome fileName="Human.fa" contigName="chr20" totalBases="63025520" isCircular="false" md5="c3c66d396289fe70950f844868c387df" ploidy="2" />
+	<chromosome fileName="Human.fa" contigName="chr21" totalBases="48129895" isCircular="false" md5="3e594b3726ece31187c113dd4ac85aa8" ploidy="2" />
+	<chromosome fileName="Human.fa" contigName="chr22" totalBases="51304566" isCircular="false" md5="9ba0d41360be59a22a837b7690cc80ac" ploidy="2" />
+	<chromosome fileName="Human.fa" contigName="chrX" totalBases="155270560" isCircular="false" md5="e6c43bd374da923944dea2d6e0e6049b" ploidy="2" />
+	<chromosome fileName="Human.fa" contigName="chrY" totalBases="59373566" isCircular="false" md5="17ceeafc3a372967496cd94f2572c341" ploidy="2" />
+	<chromosome fileName="Human.fa" contigName="chrM" totalBases="16571" isCircular="true" md5="6b9e15a5937653b0006de435f91578c0" ploidy="2" />
+</sequenceSizes>

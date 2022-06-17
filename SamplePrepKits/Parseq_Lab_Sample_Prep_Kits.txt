@@ -1,0 +1,9 @@
+[Version]
+1
+[Name]
+Parseq_Lab_Sample_Prep_Kits
+[Reads]
+1
+1
+[Compatible Index Kits]
+Parseq_Lab_Index_Kits

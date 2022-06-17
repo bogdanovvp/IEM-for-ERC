@@ -1,0 +1,24 @@
+<sequenceSizes genomeName="Mouse">
+	<chromosome fileName="Mouse.fa" contigName="chr1" totalBases="197195432" isCircular="false" md5="d98839d406722ab15dfa4ac251dce9fa" ploidy="2" />
+	<chromosome fileName="Mouse.fa" contigName="chr2" totalBases="181748087" isCircular="false" md5="d9311f6608b20f4365bd96ffd5c9228d" ploidy="2" />
+	<chromosome fileName="Mouse.fa" contigName="chr3" totalBases="159599783" isCircular="false" md5="5cbba026531665a70d49d1f63247904a" ploidy="2" />
+	<chromosome fileName="Mouse.fa" contigName="chr4" totalBases="155630120" isCircular="false" md5="c16be2ace1150a182604148597d90696" ploidy="2" />
+	<chromosome fileName="Mouse.fa" contigName="chr5" totalBases="152537259" isCircular="false" md5="518cec7050a850f43a6bcc2c5564beb8" ploidy="2" />
+	<chromosome fileName="Mouse.fa" contigName="chr6" totalBases="149517037" isCircular="false" md5="ee97824816cb4360af6a21f242703898" ploidy="2" />
+	<chromosome fileName="Mouse.fa" contigName="chr7" totalBases="152524553" isCircular="false" md5="91cfea3842356679d9c51540e656fba7" ploidy="2" />
+	<chromosome fileName="Mouse.fa" contigName="chr8" totalBases="131738871" isCircular="false" md5="b2878644726c538a1932d1f29c7df2bb" ploidy="2" />
+	<chromosome fileName="Mouse.fa" contigName="chr9" totalBases="124076172" isCircular="false" md5="d48abbc6692d695af51db217c7eb6755" ploidy="2" />
+	<chromosome fileName="Mouse.fa" contigName="chr10" totalBases="129993255" isCircular="false" md5="1d3b6d038542f62de68eb5f8a9d366c0" ploidy="2" />
+	<chromosome fileName="Mouse.fa" contigName="chr11" totalBases="121843856" isCircular="false" md5="a15746d13c6bd9e2b43a6c6ee1a1a075" ploidy="2" />
+	<chromosome fileName="Mouse.fa" contigName="chr12" totalBases="121257530" isCircular="false" md5="20fc17157112a6775d036a276bf58788" ploidy="2" />
+	<chromosome fileName="Mouse.fa" contigName="chr13" totalBases="120284312" isCircular="false" md5="f8e083ef192d4f73f6c0bc182a87c502" ploidy="2" />
+	<chromosome fileName="Mouse.fa" contigName="chr14" totalBases="125194864" isCircular="false" md5="d116cddd05137e93cdd4dd392dbd16e2" ploidy="2" />
+	<chromosome fileName="Mouse.fa" contigName="chr15" totalBases="103494974" isCircular="false" md5="22f120deaeb000654a845ce9e25e2632" ploidy="2" />
+	<chromosome fileName="Mouse.fa" contigName="chr16" totalBases="98319150" isCircular="false" md5="97a87ad1799432ac254e1d53eef08993" ploidy="2" />
+	<chromosome fileName="Mouse.fa" contigName="chr17" totalBases="95272651" isCircular="false" md5="4d83f702e8874dbdfadb061d4fa3e968" ploidy="2" />
+	<chromosome fileName="Mouse.fa" contigName="chr18" totalBases="90772031" isCircular="false" md5="14832387bd16d32673210cc261b42596" ploidy="2" />
+	<chromosome fileName="Mouse.fa" contigName="chr19" totalBases="61342430" isCircular="false" md5="a9fa0a958615c1f2b8e311fc2b2ce951" ploidy="2" />
+	<chromosome fileName="Mouse.fa" contigName="chrX" totalBases="166650296" isCircular="false" md5="efd972116cb8f54bbbe9ed779bd7026c" ploidy="2" />
+	<chromosome fileName="Mouse.fa" contigName="chrY" totalBases="15902555" isCircular="false" md5="5c15f141f3a3b3135e845d6bb4b8bf67" ploidy="2" />
+	<chromosome fileName="Mouse.fa" contigName="chrM" totalBases="16299" isCircular="false" md5="a128faecd584fe22b181ffa189ae2b81" ploidy="2" />
+</sequenceSizes>

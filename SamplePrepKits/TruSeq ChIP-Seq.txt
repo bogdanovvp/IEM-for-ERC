@@ -1,0 +1,29 @@
+﻿[Version]
+1
+[Name]
+TruSeq ChIP-Seq
+
+DefaultNumIndexReads	1
+[Reads]
+51
+51
+[UMISettings]
+Read1UMILength	7
+Read2UMILength	7
+Read1StartFromCycle	9
+Read2StartFromCycle	9
+[Compatible Index Kits]
+IDT-ILMN TruSeq DNA UD Indexes v2 - 96 Indexes
+TruSeq DNA Single Indexes Set A
+TruSeq DNA Single Indexes Set B
+IDT-ILMN Nextera DNA UD Indexes (96 Indexes) Set A
+IDT-ILMN Nextera DNA UD Indexes (96 Indexes) Set B
+IDT-ILMN Nextera DNA UD Indexes (96 Indexes) Set C
+IDT-ILMN Nextera DNA UD Indexes (96 Indexes) Set D
+IDT-ILMN Nextera DNA UD Indexes (384 Indexes)
+[Compatible With UMI Anchor Kit]
+IDT-ILMN Nextera DNA UD Indexes (96 Indexes) Set A
+IDT-ILMN Nextera DNA UD Indexes (96 Indexes) Set B
+IDT-ILMN Nextera DNA UD Indexes (96 Indexes) Set C
+IDT-ILMN Nextera DNA UD Indexes (96 Indexes) Set D
+IDT-ILMN Nextera DNA UD Indexes (384 Indexes)

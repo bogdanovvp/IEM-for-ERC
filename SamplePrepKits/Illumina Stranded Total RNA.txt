@@ -1,0 +1,27 @@
+[Version]
+1
+[Name]
+Illumina Stranded Total RNA
+[Reads]
+76
+76
+[Settings]
+IndexOnly
+PairedEndOnly
+[UMISettings]
+Read1UMILength	7
+Read2UMILength	7
+Read1StartFromCycle	9
+Read2StartFromCycle	9
+[Compatible Index Kits]
+IDT-Ilmn RNA UD Indexes SetA Ligation
+IDT-Ilmn RNA UD Indexes SetB Ligation
+IDT-Ilmn RNA UD Indexes SetC Ligation
+IDT-Ilmn RNA UD Indexes SetD Ligation
+IDT-Ilmn RNA UD Indexes SetABCD Ligation
+[Compatible With UMI Anchor Kit]
+IDT-Ilmn RNA UD Indexes SetA Ligation
+IDT-Ilmn RNA UD Indexes SetB Ligation
+IDT-Ilmn RNA UD Indexes SetC Ligation
+IDT-Ilmn RNA UD Indexes SetD Ligation
+IDT-Ilmn RNA UD Indexes SetABCD Ligation

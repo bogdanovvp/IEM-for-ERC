@@ -1,0 +1,11 @@
+﻿[Version]
+1
+[Name]
+TruSeq RNA Exome Enrichment
+[Reads]
+76
+76
+[Compatible Index Kits]
+TruSeq RNA Single Indexes (A & B)
+TruSeq RNA Single Indexes Set A
+TruSeq RNA Single Indexes Set B

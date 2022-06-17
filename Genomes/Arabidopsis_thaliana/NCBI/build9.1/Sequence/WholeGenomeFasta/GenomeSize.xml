@@ -1,0 +1,7 @@
+<sequenceSizes genomeName="WholeGenomeFasta">
+	<chromosome fileName="genome.fa" contigName="1" totalBases="30427671" isCircular="false" md5="66bcd0ba0c2303c318cfa2742cfb4203" ploidy="2" />
+	<chromosome fileName="genome.fa" contigName="2" totalBases="19698289" isCircular="false" md5="837e6cf18d30dda428a08ac2cb4061f2" ploidy="2" />
+	<chromosome fileName="genome.fa" contigName="3" totalBases="23459830" isCircular="false" md5="bd4bc6259143f4b4f3921367c28d07ff" ploidy="2" />
+	<chromosome fileName="genome.fa" contigName="4" totalBases="18585056" isCircular="false" md5="21f56163f7e34510232448b14fce7578" ploidy="2" />
+	<chromosome fileName="genome.fa" contigName="5" totalBases="26975502" isCircular="false" md5="d6cb9d0b2cf3f54e5308adaa2af79e08" ploidy="2" />
+</sequenceSizes>

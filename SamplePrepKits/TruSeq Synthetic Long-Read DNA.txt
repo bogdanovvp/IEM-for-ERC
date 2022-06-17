@@ -1,0 +1,22 @@
+﻿[Version]
+1
+[Name]
+TruSeq Synthetic Long-Read DNA
+[PlateExtension]
+trulr
+
+[Settings]
+ClearApplicationSettings
+TSLR
+IndexOnly
+
+[Reads]
+// default, min, max, locked
+101	100	151	FALSE
+101	100	151	FALSE
+
+[I7]
+TSSLRv1	NNNNNNNN
+
+[DefaultLayout_SingleIndex]
+A01	TSSLRv1
