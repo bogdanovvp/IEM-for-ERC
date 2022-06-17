@@ -1,0 +1,9 @@
+[Version]
+3
+[Name]
+Chromium Single Cell 5' GEM v3
+[Settings]
+[Compatible Index Kits]
+Chromium Single Index Kit T Set A
+Chromium Dual Index Kit TT Set A (Workflow B)
+Chromium Dual Index Kit TT Set A

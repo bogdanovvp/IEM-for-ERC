@@ -1,0 +1,16 @@
+[Version]
+1
+[Name]
+AmpliSeq Library PLUS for Illumina
+[Reads]
+151
+151
+[Settings]
+IndexOnly
+[Compatible Index Kits]
+AmpliSeq UD Indexes (24)
+AmpliSeq CD Indexes (384)
+AmpliSeq CD Indexes Plate A
+AmpliSeq CD Indexes Plate B
+AmpliSeq CD Indexes Plate C
+AmpliSeq CD Indexes Plate D
