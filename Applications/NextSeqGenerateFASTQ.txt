@@ -13,6 +13,7 @@ KAPA HyperPlus
 KAPA RNA HyperPrep
 KAPA Stranded RNA-Seq Kit
 KAPA HTP_LTP Library Prep Kit
+NEBNext Ultra II FS DNA Library Prep Kit for Illumina
 TruSeq DNA PCR-Free
 TruSeq Nano DNA
 TruSeq Synthetic Long-Read DNA
