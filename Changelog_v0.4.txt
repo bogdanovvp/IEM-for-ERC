@@ -1,9 +1,12 @@
 v0.4
+- Add application for Chromium 5'
 - Added Chromium Dual Index Kit TT Set A (as indexes for bcl2fastq, not for cellranger)
+- Add Illumina HTS (genotyping)
+- Add other NEBNext index kits
 
 v0.3
 - Fixed a bug in Chromium Single Index Kit T Set A for compatibility with cellranger
-- Added NEBNext index kits
+- Added NEBNext index kit
 
 v0.2
 - Added KAPA index kits
