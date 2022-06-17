@@ -1,0 +1,20 @@
+[Version]
+1
+[Workflow Name]
+GenerateFASTQ
+[Display Name]
+Clone Checking
+[Category]
+Targeted Resequencing
+[Compatible Sample Prep Kits]
+Nextera XT
+Nextera DNA
+Illumina DNA Prep
+TruSeq ChIP-Seq
+TruSeq DNA Methylation
+TruSeq DNA PCR-Free
+TruSeq Nano DNA
+TruSeq RNA Access
+TruSeq RNA v2
+TruSeq RNA Exome Enrichment
+TruSeq Stranded Total RNA

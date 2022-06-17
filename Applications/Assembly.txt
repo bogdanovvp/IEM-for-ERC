@@ -1,0 +1,39 @@
+[Version]
+1
+[Workflow Name]
+Assembly
+[Display Name]
+Assembly
+[Category]
+Small Genome Sequencing
+
+[Compatible Sample Prep Kits]
+Nextera DNA
+Illumina DNA Prep
+Nextera Mate Pair
+Nextera XT
+TruSeq DNA PCR-Free
+TruSeq Nano DNA
+TruSeq RNA Access
+
+[Settings]
+
+[SampleSheetFields]
+SampleId	TRUE
+SampleName	FALSE
+Plate	FALSE
+Well	FALSE
+IndexPlate	TRUE
+IndexPlateWell	TRUE
+Index1ID	TRUE
+Index1	FALSE
+Index2ID	TRUE
+Index2	FALSE
+Genome	FALSE
+Project	FALSE
+Description	FALSE
+
+[Workflow-Specific Parameters]
+Label	Type	LabelInSampleSheet	TrueVal	FalseVal	DefaultVal	Required	DisplayAsCol
+Reverse Complement	BOOL	ReverseComplement	1	0	FALSE	FALSE	FALSE
+K-mer size	INT[2-255]	kmer	NULL	NULL	31	FALSE	FALSE

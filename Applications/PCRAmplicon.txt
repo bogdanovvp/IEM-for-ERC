@@ -1,0 +1,36 @@
+[Version]
+1
+[Workflow Name]
+PCR Amplicon
+[Display Name]
+PCR Amplicon
+[Category]
+Targeted Resequencing
+[Compatible Sample Prep Kits]
+Nextera XT
+Nextera DNA
+Illumina DNA Prep
+[Settings]
+
+[SampleSheetFields]
+SampleId	TRUE
+SampleName	FALSE
+Plate	FALSE
+Well	FALSE
+IndexPlate	TRUE
+IndexPlateWell	TRUE
+Index1ID	TRUE
+Index1	FALSE
+Index2ID	TRUE
+Index2	FALSE
+NexteraManifest	TRUE
+Project	FALSE
+Description	FALSE
+
+[Workflow-Specific Parameters]
+Label	Type	LabelInSampleSheet	TrueVal	FalseVal	DefaultVal	Required	DisplayAsCol
+Use Somatic Variant Caller	BOOL	VariantCaller	Somatic	NULL	FALSE	FALSE	FALSE
+Flag PCR Duplicates	BOOL	FlagPCRDuplicates	1	0	FALSE	FALSE FALSE
+Variant Quality Filter Cutoff	INT[2-1000]	VariantFilterQualityCutoff	NULL	NULL	30	FALSE	FALSE
+Export to gVCF	BOOL	outputgenomevcf	TRUE	FALSE	FALSE	FALSE	FALSE
+BWA-backtrack	BOOL	RunBwaAln	1	0	FALSE	FALSE	FALSE

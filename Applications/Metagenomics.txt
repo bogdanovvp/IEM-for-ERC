@@ -1,0 +1,17 @@
+[Version]
+1
+[Workflow Name]
+Metagenomics
+[Display Name]
+Metagenomics 16S rRNA
+[Category]
+Targeted Resequencing
+[Compatible Sample Prep Kits]
+Nextera XT
+Nextera DNA
+Illumina DNA Prep
+TruSeq DNA PCR-Free
+TruSeq Nano DNA
+[Workflow-Specific Parameters]
+Label	Type	LabelInSampleSheet	TrueVal	FalseVal	DefaultVal	Required	DisplayAsCol
+Genus-level Classification	BOOL	TaxonomyFile	gg_13_5_genus_32bp.dat	NULL	FALSE	FALSE FALSE

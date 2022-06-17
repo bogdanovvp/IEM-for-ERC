@@ -1,0 +1,16 @@
+[Version]
+1
+[Workflow Name]
+GenerateFASTQ
+[Display Name]
+RNA-Seq
+[Category]
+RNA Sequencing
+[Compatible Sample Prep Kits]
+TruSeq RNA Access
+TruSeq RNA v2
+TruSeq Stranded Total RNA
+TruSeq Stranded mRNA
+ScriptSeq v2
+ScriptSeq Complete
+TruSeq RNA Exome Enrichment

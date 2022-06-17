@@ -1,0 +1,53 @@
+[Version]
+1
+[Workflow Name]
+Enrichment
+[Display Name]
+Enrichment
+[Category]
+Targeted Resequencing
+[Compatible Sample Prep Kits]
+KAPA HyperPrep
+KAPA HyperPlus
+KAPA RNA HyperPrep
+KAPA Stranded RNA-Seq Kit
+KAPA HTP_LTP Library Prep Kit
+Nextera Rapid Capture Custom Enrichment
+TruSeq Rapid Exome
+TruSeq DNA Exome Enrichment
+TruSight Enrichment
+Nextera DNA Exome Enrichment
+Illumina DNA Prep with Enrichment
+[Settings]
+UseManifestRegionGroups
+NoCustomPrimers
+AllowManifestEditing	FALSE
+
+[Reads]
+76
+76
+
+[SampleSheetFields]
+SampleId	TRUE
+SampleName	FALSE
+Plate	FALSE
+Well	FALSE
+IndexPlate	TRUE
+IndexPlateWell	TRUE
+Index1ID	TRUE
+Index1	FALSE
+Index2ID	TRUE
+Index2	FALSE
+NexteraManifest	TRUE
+Project	FALSE
+Description	FALSE
+
+[Workflow-Specific Parameters]
+Label	Type	LabelInSampleSheet	TrueVal	FalseVal	DefaultVal	Required	DisplayAsCol
+Use Somatic Variant Caller	BOOL	VariantCaller	Somatic	NULL	FALSE	FALSE	FALSE
+Indel Realignment GATK	BOOL	IndelRealignment	GATK	NULL	TRUE	FALSE	NULL		GATK	NULL	TRUE	FALSE	NULL	
+Flag PCR Duplicates	BOOL	FlagPCRDuplicates	TRUE	FALSE	FALSE	FALSE FALSE
+Run Picard HsMetrics	BOOL	PicardHSMetrics	TRUE	NULL	FALSE	FALSE	FALSE	
+Variant Quality Filter Cutoff	INT[2-1000]	VariantFilterQualityCutoff	NULL	NULL	30	FALSE	FALSE
+Export to gVCF	BOOL	outputgenomevcf	TRUE	FALSE	FALSE	FALSE	FALSE
+BWA-backtrack	BOOL	RunBwaAln	1	0	FALSE	FALSE	FALSE

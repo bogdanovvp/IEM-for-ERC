@@ -1,0 +1,46 @@
+[Version]
+1
+[Workflow Name]
+Resequencing
+[Display Name]
+Resequencing
+[Category]
+Small Genome Sequencing
+[Compatible Sample Prep Kits]
+KAPA HyperPrep
+KAPA HyperPlus
+KAPA RNA HyperPrep
+KAPA Stranded RNA-Seq Kit
+KAPA HTP_LTP Library Prep Kit
+Nextera DNA
+Illumina DNA Prep
+Nextera Mate Pair
+Nextera XT
+TruSeq DNA PCR-Free
+TruSeq Nano DNA
+[Settings]
+
+[SampleSheetFields]
+SampleId	TRUE
+SampleName	FALSE
+Plate	FALSE
+Well	FALSE
+IndexPlate	TRUE
+IndexPlateWell	TRUE
+Index1ID	TRUE
+Index1	FALSE
+Index2ID	TRUE
+Index2	FALSE
+Genome	TRUE
+Project	FALSE
+Description	FALSE
+
+[Workflow-Specific Parameters]
+Label	Type	LabelInSampleSheet	TrueVal	FalseVal	DefaultVal	Required	DisplayAsCol
+Use Somatic Variant Caller	BOOL	VariantCaller	Somatic	NULL	FALSE	FALSE	FALSE
+Flag PCR Duplicates	BOOL	FlagPCRDuplicates	1	0	TRUE	FALSE FALSE
+Reverse Complement	BOOL	ReverseComplement	1	0	FALSE	FALSE	FALSE
+Indel Realignment GATK	BOOL	IndelRealignment	GATK	NULL	FALSE	FALSE	NULL
+Variant Quality Filter Cutoff	INT[2-1000]	VariantFilterQualityCutoff	NULL	NULL	30	FALSE	FALSE
+Export to gVCF	BOOL	outputgenomevcf	TRUE	FALSE	FALSE	FALSE	FALSE
+BWA-backtrack	BOOL	RunBwaAln	1	0	FALSE	FALSE	FALSE

@@ -1,0 +1,32 @@
+[Version]
+1
+[Workflow Name]
+TargetedRNASeq
+[Display Name]
+Targeted RNA
+[Category]
+RNA Sequencing
+[Compatible Sample Prep Kits]
+TruSeq Targeted RNA Expression
+[Settings]
+NoCustomPrimers
+
+[SampleSheetFields]
+SampleId	TRUE
+SampleName	FALSE
+Plate	FALSE
+Well	FALSE
+IndexPlate	TRUE
+IndexPlateWell	TRUE
+Index1ID	TRUE
+Index1	FALSE
+Index2ID	TRUE
+Index2	FALSE
+Manifest	TRUE
+Normalize	FALSE
+Project	FALSE
+Description	FALSE
+
+[Workflow-Specific Sample Parameters]
+Label	Required	Type	DefaultColWidth
+Normalize	false	STRING	150

@@ -1,0 +1,17 @@
+[Version]
+1
+[Workflow Name]
+SmallRNA
+[Display Name]
+Small RNA
+[Category]
+RNA Sequencing
+[Compatible Sample Prep Kits]
+TruSeq Small RNA
+[Workflow-Specific Parameters]
+Label	Type	LabelInSampleSheet	TrueVal	FalseVal	DefaultVal	Required	DisplayAsCol	DisplayEvenIfEmpty
+Genome Folder	GENOME	GenomeFolder	-	-		FALSE	TRUE	TRUE
+Contaminants	STRING	Contaminants	-	-		TRUE	TRUE	FALSE
+RNA	STRING	RNA	-	-		TRUE	TRUE	FALSE
+miRNA	STRING	miRNA	-	-		TRUE	TRUE	FALSE
+

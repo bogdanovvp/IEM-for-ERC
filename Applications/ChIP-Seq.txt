@@ -1,0 +1,10 @@
+[Version]
+1
+[Workflow Name]
+GenerateFASTQ
+[Display Name]
+ChIP-Seq
+[Category]
+Other
+[Compatible Sample Prep Kits]
+TruSeq ChIP-Seq

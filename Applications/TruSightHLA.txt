@@ -1,0 +1,16 @@
+﻿[Version]
+1
+[Workflow Name]
+TruSightHLA
+[Display Name]
+TruSight HLA
+[Category]
+Other
+[Compatible Sample Prep Kits]
+Nextera XT
+
+[Settings]
+NoCustomPrimers
+[Workflow-Specific Parameters]
+Label	Type	LabelInSampleSheet	TrueVal	FalseVal	DefaultVal	Required	DisplayAsCol
+Quality Score Trim	INT[1-50]	QualityScoreTrim	NULL	NULL	1	TRUE	FALSE

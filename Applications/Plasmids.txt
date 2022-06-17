@@ -1,0 +1,14 @@
+[Version]
+1
+[Workflow Name]
+GenerateFASTQ
+[Display Name]
+Plasmids
+[Category]
+Small Genome Sequencing
+[Compatible Sample Prep Kits]
+Nextera DNA
+Illumina DNA Prep
+Nextera XT
+TruSeq DNA PCR-Free
+TruSeq Nano DNA
