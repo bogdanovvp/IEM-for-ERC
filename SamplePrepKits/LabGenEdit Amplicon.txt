@@ -1,0 +1,8 @@
+﻿[Version]
+1
+[Name]
+LabGenEdit Amplicon
+[Settings]
+ManifestExtension	AmpliconManifest
+[Compatible Index Kits]
+LabGenEdit XT

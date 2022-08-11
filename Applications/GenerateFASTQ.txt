@@ -8,6 +8,7 @@ FASTQ Only
 Other
 
 [Compatible Sample Prep Kits]
+LabGenEdit Amplicon
 Chromium Single Cell 3' GEM v3
 KAPA HyperPrep
 KAPA HyperPlus

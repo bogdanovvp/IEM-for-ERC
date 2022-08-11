@@ -7,6 +7,7 @@ NextSeq FASTQ Only
 [Category]
 NextSeq
 [Compatible Sample Prep Kits]
+LabGenEdit Amplicon
 Chromium Single Cell 5' GEM v3
 Chromium Single Cell 3' GEM v3
 KAPA HyperPrep
